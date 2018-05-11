@@ -1,2 +1,2 @@
 # glab_posters
-Posters related to work performed by Grady Lab
+Posters and powerpoint presentations related to work performed by Grady Lab.
